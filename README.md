@@ -1,2 +1,2 @@
 # Calculadora-Basica
-Uma caclculadora comum feitas em meios de aprendizado e organização.
+Uma caclculadora comum feita em meios de aprendizado e organização.
